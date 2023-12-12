@@ -1,7 +1,24 @@
+Group members:
+Bhuvanesh - 21bds018
+Abhiram - 21bds029
+Hrutin Suriya - 21bds031
+Sadikh Shaik - 21bds059
+
+Data Set link = https://www.kaggle.com/datasets/mathurinache/samanantar
+
+Reference papers links:
+Attention is All you need paper:
+https://proceedings.neurips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html
+
+Samanantar Dataset Corpus :
+https://arxiv.org/abs/2104.05596
+
+Introduction: 
 This is a translator built from scratch using transformers which translates from english-to-telugu.
 We used semanantar dataset for this which includes 4.8 million english-telugu pairs
 We trained our transformer with 1 million English-Telugu sentence pairs
 
+How to use this repository: 
 Please check the Explanation bit by bit(1 lakh sentences) python notebook first
 
 Explanation bit by bit(1 lakh sentences) python notebook:
