@@ -1,5 +1,5 @@
 This is a translator built from scratch using transformers which translates from english-to-telugu.
-We used semanantar dataset for this which includes 4.3 million english-telugu pairs
+We used semanantar dataset for this which includes 4.8 million english-telugu pairs
 We trained our transformer with 1 million English-Telugu sentence pairs
 
 Please check the Explanation bit by bit(1 lakh sentences) python notebook first
